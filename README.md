@@ -1,8 +1,32 @@
-# React + Vite
+# CV
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
 
-Currently, two official plugins are available:
+My main goal is to become a highly skilled frontend developer capable of 
+      creating modern and visually appealing web interfaces. I strive to constantly 
+      improve my skills in the field of frontend technologies and my creativity, 
+      logical thinking and high motivation help me in this.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Education
+
+Belarusian State University
+
+## Skills
+
+- HTML5, CSS3
+- Figma
+- JS
+- React
+- Git
+- C++
+
+## Contact
+
+- Email: valeriaovsianik547@tut.by
+
+- Telegram: @necsvy
+
+- GitHub: Lera4576
+
+- Location: Minsk, Belarus
+
