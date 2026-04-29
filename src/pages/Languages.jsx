@@ -5,7 +5,7 @@ const Languages = () => (
     <h2 className="text-2xl font-semibold mb-2 bg-blue-100 p-2 text-right">Language</h2>
     <ul className="list-disc pl-6">
       <li>Russian</li>
-      <li>English (B2)</li>
+      <li>English (A2-B1)</li>
     </ul>
   </div>
 );
